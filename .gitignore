@@ -1,0 +1,23 @@
+# Temporary files
+*.tmp
+*.temp
+/temp_*
+/tmp/*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test output
+/test_output/*
