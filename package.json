@@ -1,0 +1,16 @@
+{
+  "name": "@your-username/pdf-vision-skill",
+  "version": "1.0.0",
+  "description": "Extract text from image-based/scanned PDFs using vision APIs",
+  "main": "scripts/pdf_vision.py",
+  "scripts": {
+    "test": "python3 scripts/pdf_vision.py --help"
+  },
+  "keywords": ["openclaw", "skill", "pdf", "vision", "ocr"],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/pdf-vision-skill.git"
+  }
+}
